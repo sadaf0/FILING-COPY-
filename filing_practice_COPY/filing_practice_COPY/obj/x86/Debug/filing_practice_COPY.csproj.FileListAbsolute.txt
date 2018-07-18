@@ -1,0 +1,10 @@
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\bin\Debug\filing_practice_COPY.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\bin\Debug\filing_practice_COPY.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.Form1.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.Properties.Resources.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.csproj.GenerateResource.Cache
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.csprojResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_COPY\filing_practice_COPY\obj\x86\Debug\filing_practice_COPY.pdb
